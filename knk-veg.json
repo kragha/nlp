@@ -1,0 +1,97 @@
+{
+    "case": "How to increase profitability in Kanakapura Organic Veggies Chain Store",
+    "states": 
+     {
+        "I":
+          {
+            "app_scope": "You can go over a typical case interview, analyze the case, and suggest recommendations to solve the problem statement"
+          },
+        "DCS":
+          {
+            "title": "How to increase profitability in Kanakapura Organic Veggies Chain Store",
+            "overview": "Kanakapura Veggies, a 5 years old Organic Veggies Retail Chain, has 30 outlets spread across Bangalore. They source Organic Veggies from 100 associated farms around Bangalore daily. Vegetables are tested for quality, sorted, cleaned and packed at their central Packaging Unit. They are then transported to Retail outlets",
+            "problem_statement": "They were making 25% margin for 3 years. From 2 Quarters, the margin has consistently dipped to 15%. We need to think of making them profitable in a Quarter's time?",
+            "competition": "There are 3 players in this market and Kanakapura Veggies has 30% market share from last 2 years, in 2nd position, which is at risk now. Total market is of 100 Million USD per Quarter. All players sell across all areas of the market evenly without fragmentation.  Kanakapura Veggies input costs are 7% less than competition, profit margin is 2% higher than competition",
+            "competition_compare": " Kanakapura Veggies input costs are 7% less than competition, profit margin is 2% higher than competition",
+              "market": "There are 3 players in this market and Kanakapura Veggies has 30% market share from last 2 years, in 2nd position, which is at risk now. Total market is of 100 Million USD per Quarter. All players sell across all areas of the market evenly without fragmentation",            
+            "market-share": "Kanakapura Veggies has 30% market share from last 2 years, in 2nd position, which is at risk now. Total market is of 100 Million USD per Quarter",
+            "production": "Kanakapura Veggies procures vegetables daily from 100 associated farms, whose farmers are members of the Company. Those vegetables are transported to a central packaging facility where they are tested for quality, sorted, cleaned and packed",
+            "logistics": "Kanakapura Veggies has tied up with a reputed Logistics Company in Bangalore who handle all logistics for them. Veggies are transported from about 100 farms daily to a central facility. Post packaging, packed vegetables are transported to the 30 outlets in the city. A fleet of 50 vehicles is used",
+            "overhead-cost": "Processing cost at factory plus logistics cost is about 40% of the procurement cost at farm",
+              "overheads": "Processing cost at factory plus logistics cost is about 40% of the procurement cost at farm",
+            "logistics-cost": "Logistics (ex: transport, distribution, handling) cost is about 20% of final product cost",
+            "retail-cost": "Retail or Store Front cost is about 20% of final product cost",
+            "labour-cost": "Labour cost is approx 20% of final product cost",
+            "margin": "Typical margin/profit is in the range of 10-20% gross margin, depending on demand situation and seasons",            
+               "profitability": "Typical margin/profit is in the range of 10-20% gross margin, depending on demand situation and seasons",                        
+            "export": "These vegetables are purely targeted towards domestic market and not exported",
+            "regulatory-cost": "Regulatory cost is about 10% of the farm procurement cost price of product",
+            "procuring-cost": "Typical Govt Monitored Whole Sale Market Pricing method is followed. Prevalent Whole sale buying price of each product, on the day of procurement is paid to the farmer. Farmers having membership with organization get an additional 5% price as incentive",
+            "marketing": "Kanakapura Veggies has tied up with a reputed Marketing org in Bangalore who advertize the products in all media. They do cold calling and email/online campaigns each month to reach out to new prospective customers and enroll them",
+            "marketing-cost": "Marketing cost is about 15% of the procurement product cost",
+             "online": "Kanakapura Veggies is not into online e-selling",
+            "cost": "Costs involved are: Procurement cost at farm (40%), Logistics shipment cost (20%), sorting/packing cost at central facility (20%), Retail shop running costs(20%)",            
+            "revenue": "Total Market Size is 30 Million USD per Quarter. Kanakapura Veggies is doing about 10 Million USD Revenue average from last 3 Quarters. Market is growing about 10% yearly",
+            "revenue-segments": "Revenue segments are: Fresh Fruits, Fresh Veggies, Processed Veggies/Fruits",            
+            "change": "Nothing significantly has changed in recent 2-3 Quarters. With growing population of Bangalore, market size is increasing by 10%. No new players have entered. Number of farmers producing Organic Veggies have also remained reasonably similar to last year. Our Brand standing has also remained similar to last year. All players have remained same in last one year, and retained their market share, product portfolio",
+            "employee": "People in the organization are quite experienced. Most of them are old timers with the org. Average experience in this domain they have is about 8-10 yrs. They are paid 70 percentile market salary and annual bonus of 15% based on profitability",
+            "organization": "Kanakapura Veggies is run by a Board which is quite respected in the Industry. Their CEO is the creator of the startup. They have a de-centralized empowered management approach towards decision making. Employee Satisfaction is in top 30% Industry average",
+            "employee-salary": "Employees are paid 70th percentile of the market salary and annual bonus of 15% based on Company profitability and Employee Performance",
+            "customers": "Customers are mostly of age below 40 who are of this generation. Upper Middle Class and Rich category, with Organic Awareness is mostly the target customer base",            
+            "retail-channel": "They have their own retail chain stores across the city to sell, which they run themselves. They dont use 3rd party channels",
+            "sale": "They have their own retail chain stores across the city to sell, which they run themselves. They dont use 3rd party channels",            
+            "sales-type": "Kanakapura Veggies is into Retail Selling via their own Chain Stores",
+            "value-proposition": "Kanakapura Veggies sells 100% Organic Certified Vegetables grown from associated farms which are monitored for quality and process. This is the USP and Differentiator. They are also the oldest player in this market and having highest quality feedback compared to competition",
+            "store-front": "They own their own chain of retail stores. They dont sell using other 3rd party retail stores",
+            "geographies": "They sell in and around Bangalore - about 100 kms radius around Bangalore. They source the veggies from farms in and around Bangalore in a radius of 300 km",
+            "products":"Products are of these main types: Fruits, Vegetables, Milk Products. Margin is similar across the types",
+            "alternatives": "The other competitors sell similar products which are the only alternative/substitute available in the market. Non Organic is the other extreme substitute",
+            "product-revenue": "All product types make similar 10-20% margin. Sales/Revenue inflow is also similar across the product types",
+            "merger-acquisition": "So far, there has not been any Merger or Acquisition in this market",
+            "suppliers": "Farmers who are associated members of the organizataion are the product suppliers. Packing and other Store materials are procured from other Suppliers in market",
+            "supply": "Supply Chain is well organized and managed daily. No major issues are seen wrt Demand/Supply meeting normally except spike seasons that need storing to handle the surge",            
+            "price-change": "Prices have grown at about 3% an year",
+            "pricing": "Pricing is more or less comparable with competition and inline with market trend. Its updated every week based on market feedback. Pricing strategy is to stay competitive wrt competition",            
+            "value-chain": "Considering cost of product at the Farm, Farmers make about 10% margin. Logistics guys make about 5%. Retail section makes about 15% margin - If value/margin is split across segments",
+            "promotions": "There are no promotions active now. At festive seasons, the Marketing/Sales teams generally come up with Promotion Deals",
+            "business-forecast": "As per Analysts: Market is expected to grow 10%. Since there is growth, more players are expected to enter the market. In 2 years, some sort of consolidation is expected to happen when growth starts to stagnate"
+          },
+        "DDA":
+          {
+            "solve_case": "Great. Lets now move on to solving the case. Please start with your analysis and recommendation",
+            "tell-me-more": "Hmm.. tell me more so that I can understand better",
+            "cur-compr-keyw":"NONE",
+            "comprehension-state": "NONE",
+            "wrong_match_count":0,
+            "matchfail_bailout_count":2,
+            "right-answers":
+            {
+                "market-share":     {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Market Share improving..", "parent":"None", "topic-string": "Market Share Optimization Score : "},
+                "customer-base":    {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Customer Base expansion..", "parent":"None", "synonym":"market-share"},
+                "revenue": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Revenue Expanding..", "parent":"None", "synonym":"market-share"},
+                      "promotions":    {"action":"implement","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Sales Promotions..", "parent":"market-share"},
+                      "geographies":    {"action":"expand","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Expanding into other areas..", "parent":"market-share"},                                         
+                      "marketing-strategy": {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Strategy enhancing..", "parent":"market-share"},
+                      "marketing":     {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Expanding Marketing..", "parent":"market-share"},
+                      "online":    {"action":"sell","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Online Sales..", "parent":"market-share"},                    
+                      "product-range":        {"action":"change","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Product Range changing..", "parent":"market-share"},
+                      "brand":        {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Brand improving..", "parent":"market-share"},
+                      
+                "profitability": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Improve Profitability..", "parent":"None", "topic-string": "Profitability Increasing Score : "},
+                    "cost":        {"action":"decrease","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Reduce cost..", "parent":"profitability"},
+                    "input-cost": {"action":"decrease","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Input Cost reduction..", "parent":"profitability"},                                    
+                        "low-cost-sources":        {"action":"source","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Source from low cost sources..", "parent":"profitability"},                    
+                        "own-farms":        {"action":"start","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Start Own farms. Hmm. Interesting idea..", "parent":"profitability"},                                        
+                    "prices": {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Increase Prices..", "parent":"profitability"},                                    
+                    "logistics-cost": {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Logistics Cost reduction.", "parent":"profitability"},
+                    "retail-cost":    {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Retail Cost reduction..", "parent":"profitability"},
+                        "channel-partners":    {"action":"partner","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Channel Partners partnering. Interesting..", "parent":"profitability"},                    
+                        "retail-channel":        {"action":"consolidate","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Consolidating Shops. Interesting.. ", "parent":"profitability"},
+                        "retailers":        {"action":"partner","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Partnering with Retailers..", "parent":"profitability"},                                                                                                                                                                                                                            
+                    "marketing-cost":    {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Marketing Cost reduction..", "parent":"profitability"},
+                    "high-margin-products":        {"action":"sell","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Sell high margin products..", "parent":"profitability"},                                                                                
+                    "high-margin-market":        {"action":"sell","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Sell in high margin market..", "parent":"profitability"}       
+            }
+          }
+     }
+}
