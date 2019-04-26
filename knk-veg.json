@@ -60,6 +60,7 @@
           {
             "solve_case": "Great. Lets now move on to solving the case. Please start with your analysis and recommendation",
             "tell-me-more": "Hmm.. tell me more so that I can understand better",
+            "exit":"Nice talking to you. Bye",
             "cur-compr-keyw":"NONE",
             "comprehension-state": "NONE",
             "wrong_match_count":0,
@@ -69,20 +70,20 @@
                 "market-share":     {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Market Share improving..", "parent":"None", "topic-string": "Market Share Optimization Score : "},
                 "customer-base":    {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Customer Base expansion..", "parent":"None", "synonym":"market-share"},
                 "revenue": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Revenue Expanding..", "parent":"None", "synonym":"market-share"},
-                      "promotions":    {"action":"implement","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Sales Promotions..", "parent":"market-share"},
-                      "geographies":    {"action":"expand","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Expanding into other areas..", "parent":"market-share"},                                         
-                      "marketing-strategy": {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Strategy enhancing..", "parent":"market-share"},
-                      "marketing":     {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Expanding Marketing..", "parent":"market-share"},
-                      "online":    {"action":"sell","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Online Sales..", "parent":"market-share"},                    
+                      "promotions":    {"action":"implement","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Sales Promotions..", "parent":"market-share"},
+                      "geographies":    {"action":"expand","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Expanding into other areas..", "parent":"market-share"},                                         
+                      "marketing-strategy": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Strategy enhancing..", "parent":"market-share"},
+                      "marketing":     {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Expanding Marketing..", "parent":"market-share"},
+                      "online":    {"action":"sell","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Online Sales..", "parent":"market-share"},                    
                       "product-range":        {"action":"change","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Product Range changing..", "parent":"market-share"},
                       "brand":        {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Brand improving..", "parent":"market-share"},
                       
                 "profitability": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Improve Profitability..", "parent":"None", "topic-string": "Profitability Increasing Score : "},
-                    "cost":        {"action":"decrease","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Reduce cost..", "parent":"profitability"},
-                    "input-cost": {"action":"decrease","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Input Cost reduction..", "parent":"profitability"},                                    
-                        "low-cost-sources":        {"action":"source","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Source from low cost sources..", "parent":"profitability"},                    
-                        "own-farms":        {"action":"start","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Start Own farms. Hmm. Interesting idea..", "parent":"profitability"},                                        
-                    "prices": {"action":"increase","p1":"p1", "p2":"p2","hit-count":1, "rsp":"Increase Prices..", "parent":"profitability"},                                    
+                    "cost":        {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Reduce cost..", "parent":"profitability"},
+                    "input-cost": {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Input Cost reduction..", "parent":"profitability"},                                    
+                        "low-cost-sources":        {"action":"source","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Source from low cost sources..", "parent":"profitability"},                    
+                        "own-farms":        {"action":"start","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Start Own farms. Hmm. Interesting idea..", "parent":"profitability"},                                        
+                    "prices": {"action":"increase","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Increase Prices..", "parent":"profitability"},                                    
                     "logistics-cost": {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Logistics Cost reduction.", "parent":"profitability"},
                     "retail-cost":    {"action":"decrease","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Retail Cost reduction..", "parent":"profitability"},
                         "channel-partners":    {"action":"partner","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Channel Partners partnering. Interesting..", "parent":"profitability"},                    
@@ -92,6 +93,10 @@
                     "high-margin-products":        {"action":"sell","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Sell high margin products..", "parent":"profitability"},                                                                                
                     "high-margin-market":        {"action":"sell","p1":"p1", "p2":"p2","hit-count":0, "rsp":"Sell in high margin market..", "parent":"profitability"}       
             }
-          }
+          },
+        "JUDGE":
+          {
+            "exit": "Thanks for using the tool. Bye"
+          }       
      }
 }
